@@ -3,7 +3,6 @@
 import socket
 import sys
 import threading
-import time
 from queue import Queue
 
 NUMBER_OF_THREADS = 2
