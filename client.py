@@ -3,7 +3,7 @@ import os
 import subprocess
 
 s = socket.socket()
-host = "192.168.1.2"
+host = # ADD SERVER IP ADDRESS HERE
 port = 9999
 
 s.connect((host, port))
